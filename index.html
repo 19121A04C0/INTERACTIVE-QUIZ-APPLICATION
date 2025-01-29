@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Application</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+</head>
+
+<body>
+  <div class="app">
+    <a href="index.html" class="home"><button id="home-btn">Home</button></a>
+    <h1>Quiz Application</h1>
+    <!-- Start Screen -->
+    <div id="start-screen">
+      <p class="total-que">Total Q.No.:- <span id="total-questions">4</span></p>
+      <p class="General">Learn General Knowledge Quiz</p>
+      <button id="start-btn" class="btn">Start Quiz</button>
+    </div>
+    <!-- Quiz Screen -->
+    <div id="quiz-container" class="quiz" style="display: none;">
+      <p class="que-no"> <span id="current-question">1</span> of <span id="total-questions">15</span> Questions</p>
+      <h2 id="question">Questions goes here</h2>
+      <div id="answer-buttons">
+        <button class="btn">Answer 1</button>
+        <button class="btn">Answer 2</button>
+        <button class="btn">Answer 3</button>
+        <button class="btn">Answer 4</button>
+      </div>
+      <div class="footer">
+      <button id="next-btn" class="btn" style="display: none;">Next</button>
+      </div>
+    </div>
+   </div>
+  <script src="script.js"></script>
+</body>
+</html>
