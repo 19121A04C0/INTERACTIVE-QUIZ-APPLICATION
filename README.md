@@ -37,6 +37,7 @@ These are simple front-end development tools which gives good UI interaction, st
 3. W3School
 4. QuickRef.me
 5. Chatgpt
+   
 These Resources are mainly used for learning purpose and to understand the visual of this app and to gain the idea how to design and style. This app mainly designed for education purpose and widely used for beginners to learn general knowledge and multiple choice questions. 
 
 This project enhances front-end skills by implementing event handling, DOM manipulation, and dynamic content rendering. As from ECE background this task boost my interaction towards web development and i really enjoyed to complete this task.
