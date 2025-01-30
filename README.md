@@ -17,7 +17,9 @@ Interactive quiz app is a web-based platform designed to engage users with inter
 
 Technologies Used:
 HTML
+
 CSS
+
 JavaScript
 
 These are simple front-end development tools which gives good UI interaction, style and event handling to web development. In which HTML provides structure and content, defining elements like headings, paragraphs, images, and links. CSS is used to style and design the app, adding colours, layouts, and to manage font-size. Here with JavaScript is a powerful scripting language use to handling user inputs, dynamic content updates for interactive and responsive to mobile and desktop.There are different key features of this app for user interaction.
