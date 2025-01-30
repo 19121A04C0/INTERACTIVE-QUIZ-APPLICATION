@@ -15,12 +15,10 @@
 
 Interactive quiz app is a web-based platform designed to engage users with interactive quizzes. It allows users to answer multiple-choice questions. This app contain general knowledge questions to enhance user skills and make attractive. The questions are collected from google to learn highlights about India history and it help users to prepare for quiz competition. 
 
-Technologies Used:
-HTML
-
-CSS
-
-JavaScript
+<u>Technologies Used</u>:
+- HTML
+- CSS
+- JavaScript
 
 These are simple front-end development tools which gives good UI interaction, style and event handling to web development. In which HTML provides structure and content, defining elements like headings, paragraphs, images, and links. CSS is used to style and design the app, adding colours, layouts, and to manage font-size. Here with JavaScript is a powerful scripting language use to handling user inputs, dynamic content updates for interactive and responsive to mobile and desktop.There are different key features of this app for user interaction.
 
