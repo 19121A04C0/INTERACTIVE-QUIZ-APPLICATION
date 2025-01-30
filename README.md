@@ -22,22 +22,21 @@ Interactive quiz app is a web-based platform designed to engage users with inter
 
 These are simple front-end development tools which gives good UI interaction, style and event handling to web development. In which HTML provides structure and content, defining elements like headings, paragraphs, images, and links. CSS is used to style and design the app, adding colours, layouts, and to manage font-size. Here with JavaScript is a powerful scripting language use to handling user inputs, dynamic content updates for interactive and responsive to mobile and desktop.There are different key features of this app for user interaction.
 
-Key Features:
-User-friendly UI with dynamic question rendering.
-Multiple-choice questions(selective options).
-Display correct and incorrect answer by highlighting options.
-score tracking and display feedback.
-Responsive design for mobile and desktop.
-JavaScript-based interactivity for seamless user experience.
+<u>Key Features</u>:
+- User-friendly UI with dynamic question rendering.
+- Multiple-choice questions(selective options).
+- Display correct and incorrect answer by highlighting options.
+- Score tracking and display feedback.
+- Responsive design for mobile and desktop.
+- JavaScript-based interactivity for seamless user experience.
+- This app contains Home button, Heading(section), Quiz-Container and body to make this app interactive and good looking responsive.
 
-This app contains Home button, Heading(section), Quiz-Container and body to make this app interactive and good looking responsive.
-
-Resources to design the App:
-1.Youtube
-2.Google
-3.W3School
-4.QuickRef.me
-5.Chatgpt
+<u>Resources to design the App</u>:
+1. Youtube
+2. Google
+3. W3School
+4. QuickRef.me
+5. Chatgpt
 These Resources are mainly used for learning purpose and to understand the visual of this app and to gain the idea how to design and style. This app mainly designed for education purpose and widely used for beginners to learn general knowledge and multiple choice questions. 
 
 This project enhances front-end skills by implementing event handling, DOM manipulation, and dynamic content rendering. As from ECE background this task boost my interaction towards web development and i really enjoyed to complete this task.
